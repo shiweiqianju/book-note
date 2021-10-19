@@ -1,3 +1,1 @@
-# book-note
-
-## shiweiqianju 的读书笔记
+# shiweiqianju 的读书笔记
